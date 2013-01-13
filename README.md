@@ -1,6 +1,5 @@
 encryption
 ==========
-
 A File Encryption Application
 
 Scott Bertics
